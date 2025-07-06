@@ -13,6 +13,7 @@
 ---
 
 # 🧠 DSA Mastery Roadmap – From Zero to Hero in 12 Weeks 🚀
+## Starting Date 6th Of July 2025
 
 Welcome to the **DSA Mastery Roadmap** – a structured 12-week plan to help you conquer **Data Structures and Algorithms** with just 2–4 hours/day of focused effort.
 
