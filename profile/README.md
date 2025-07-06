@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/mG7xk1f.png" alt="DSA Banner" width="100%" />
+  <img src="[https://i.imgur.com/mG7xk1f.png](https://media.licdn.com/dms/image/v2/C5112AQFeyx3ZT4vbsg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1536713922857?e=2147483647&v=beta&t=sbXdG-Zkl05czvNaTssYGG2pj4mS53DHaJTQ9QR-I-4)" alt="DSA Banner" width="100%" />
 </p>
 
 <h1 align="center">📚 DSA Mastery Roadmap – Zero to Hero in 12 Weeks 🚀</h1>
